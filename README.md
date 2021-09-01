@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JimRadeon
+- 👋 Hi, I’m @JimRadeon AKA Jacky's Alt
 - 👀 I’m interested in Fun stuff
 - 🌱 I’m currently learning Data structure and Algorithm 
 - 💞️ I’m looking to collaborate on None so far
